@@ -1,0 +1,17 @@
+{
+    "Транспорт" : {
+        "100" : {"question" : "plane", "answer":"літак", "asked" : false},
+        "200" : {"question" : "train", "answer":"поїзд", "asked" : false},
+        "300" : {"question" : "boarding", "answer":"посадка", "asked":false}
+    },
+    "Тварини" : {
+        "100" : {"question" : "cat", "answer":"кіт", "asked" : false},
+        "200" : {"question" : "dog", "answer":"собака", "asked" : false},
+        "300" : {"question" : "elephant", "answer":"слон", "asked" : false}
+    },
+    "Їжа" : {
+        "100" : {"question" : "bread", "answer":"хліб", "asked" : false},
+        "200" : {"question" : "apple", "answer":"яблуко", "asked" : false},
+        "300" : {"question" : "cheese", "answer":"сир", "asked" : false}
+    }
+}
